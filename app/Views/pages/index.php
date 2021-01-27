@@ -39,10 +39,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-6 p-4 text-justify">
+            <div class="col-md-6 col-sm-12 p-4 text-justify box-content">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, tempora dolore amet incidunt necessitatibus unde labore rem autem ad libero debitis minima quas fuga doloremque. Consequuntur optio nemo architecto ad.
             </div>
-            <div class="col-6 p-4 text-justify">
+            <div class="col-md-6 col-sm-12 p-4 text-justify box-content">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quod cumque facilis quis labore hic voluptatibus quibusdam? Non itaque error reprehenderit voluptatum beatae facilis fugit molestias, ea dolorem quas cupiditate.
             </div>
         </div>
@@ -63,10 +63,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-6 p-4 text-justify">
+            <div class="col-md-6 col-sm-12 p-4 text-justify">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, tempora dolore amet incidunt necessitatibus unde labore rem autem ad libero debitis minima quas fuga doloremque. Consequuntur optio nemo architecto ad.
             </div>
-            <div class="col-6 p-4 text-justify">
+            <div class="col-md-6 col-sm-12 p-4 text-justify">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quod cumque facilis quis labore hic voluptatibus quibusdam? Non itaque error reprehenderit voluptatum beatae facilis fugit molestias, ea dolorem quas cupiditate.
             </div>
         </div>
@@ -87,10 +87,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-6 p-4 text-justify">
+            <div class="col-md-6 col-sm-12 p-4 text-justify">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, tempora dolore amet incidunt necessitatibus unde labore rem autem ad libero debitis minima quas fuga doloremque. Consequuntur optio nemo architecto ad.
             </div>
-            <div class="col-6 p-4 text-justify">
+            <div class="col-md-6 col-sm-12 p-4 text-justify">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quod cumque facilis quis labore hic voluptatibus quibusdam? Non itaque error reprehenderit voluptatum beatae facilis fugit molestias, ea dolorem quas cupiditate.
             </div>
         </div>
@@ -111,10 +111,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-6 p-4 text-justify">
+            <div class="col-md-6 col-sm-12 p-4 text-justify">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, tempora dolore amet incidunt necessitatibus unde labore rem autem ad libero debitis minima quas fuga doloremque. Consequuntur optio nemo architecto ad.
             </div>
-            <div class="col-6 p-4 text-justify">
+            <div class="col-md-6 col-sm-12 p-4 text-justify">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quod cumque facilis quis labore hic voluptatibus quibusdam? Non itaque error reprehenderit voluptatum beatae facilis fugit molestias, ea dolorem quas cupiditate.
             </div>
         </div>
@@ -135,10 +135,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-6 p-4 text-justify">
+            <div class="col-md-6 col-sm-12 p-4 text-justify">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, tempora dolore amet incidunt necessitatibus unde labore rem autem ad libero debitis minima quas fuga doloremque. Consequuntur optio nemo architecto ad.
             </div>
-            <div class="col-6 p-4 text-justify">
+            <div class="col-md-6 col-sm-12 p-4 text-justify">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quod cumque facilis quis labore hic voluptatibus quibusdam? Non itaque error reprehenderit voluptatum beatae facilis fugit molestias, ea dolorem quas cupiditate.
             </div>
         </div>

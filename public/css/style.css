@@ -53,7 +53,7 @@ h1.title-2 {
 }
 
 /* Mobile */
-@media (max-width: 575.98px) {
+@media (max-width: 575px) {
 	.col-name {
 		width: 30% !important;
 	}
@@ -61,6 +61,9 @@ h1.title-2 {
 		width: 70% !important;
 	}
 	.col-intro {
+		width: 100% !important;
+	}
+	.box-content {
 		width: 100% !important;
 	}
 }
